@@ -1,0 +1,12 @@
+{
+  "port":3007,
+  "server": {
+    "baseDir": [
+      "./src",
+      "./build/contracts"
+    ]
+  },
+  "files": [
+    "./node_modules/"
+  ]
+}
